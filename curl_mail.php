@@ -1,6 +1,6 @@
 <?php
 
-  function send_mailgun($email,$subject,$content){
+  function send($email,$subject,$content){
 
   $config = array();
 
