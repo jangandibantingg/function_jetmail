@@ -4,7 +4,7 @@
 
   $config = array();
 
-	$config['api_key_pub'] = "api_key_pub";
+  $config['api_key_pub'] = "api_key_pub";
   $config['api_key_secreet'] = "api_key_secreet";
 
   $config['api_url'] = "https://api.mailjet.com/v3/send";
